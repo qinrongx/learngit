@@ -4,4 +4,4 @@ append GPL.
 git add
 git commit
 add a new branch
-create a branch is quick & simple
+creating a new branch is fast and simple
