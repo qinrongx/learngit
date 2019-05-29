@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        isUnix
+        isUnix()
       }
     }
     stage('Test') {
