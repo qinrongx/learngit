@@ -4,6 +4,7 @@ pipeline {
     stage('Build') {
       steps {
         isUnix()
+        echo 'Building...'
       }
     }
     stage('Test') {
